@@ -1,0 +1,5007 @@
+{
+  "api_version": "v1.0",
+  "source": "CustomerRiskAPI",
+  "generated_at": "2026-04-04 08:38:10",
+  "records": [
+    {
+      "customer_id": "CUST00001",
+      "join_date": "2022-03-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00002",
+      "join_date": "2016-04-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00003",
+      "join_date": "2015-04-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00004",
+      "join_date": "2018-01-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00005",
+      "join_date": "2017-09-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00006",
+      "join_date": "2017-07-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00007",
+      "join_date": "2016-07-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00008",
+      "join_date": "2016-02-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00009",
+      "join_date": "2022-08-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00010",
+      "join_date": "2021-02-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00011",
+      "join_date": "2015-12-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00012",
+      "join_date": "2021-08-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00013",
+      "join_date": "2019-09-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00014",
+      "join_date": "2015-05-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00015",
+      "join_date": "2015-05-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00016",
+      "join_date": "2016-01-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00017",
+      "join_date": "2017-06-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00018",
+      "join_date": "2017-08-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00019",
+      "join_date": "2020-08-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00020",
+      "join_date": "2021-10-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00021",
+      "join_date": "2015-04-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00022",
+      "join_date": "2021-04-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00023",
+      "join_date": "2017-03-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00024",
+      "join_date": "2023-01-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00025",
+      "join_date": "2022-04-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00026",
+      "join_date": "2022-11-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00027",
+      "join_date": "2021-02-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00028",
+      "join_date": "2019-09-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00029",
+      "join_date": "2017-06-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00030",
+      "join_date": "2020-01-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00031",
+      "join_date": "2021-08-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00032",
+      "join_date": "2018-02-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00033",
+      "join_date": "2015-01-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00034",
+      "join_date": "2016-10-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00035",
+      "join_date": "2022-10-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00036",
+      "join_date": "2019-09-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00037",
+      "join_date": "2018-10-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00038",
+      "join_date": "2018-02-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00039",
+      "join_date": "2016-09-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00040",
+      "join_date": "2017-05-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00041",
+      "join_date": "2018-10-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00042",
+      "join_date": "2016-02-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00043",
+      "join_date": "2016-01-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00044",
+      "join_date": "2019-04-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00045",
+      "join_date": "2016-02-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00046",
+      "join_date": "2019-01-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00047",
+      "join_date": "2018-11-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00048",
+      "join_date": "2021-10-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00049",
+      "join_date": "2017-12-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00050",
+      "join_date": "2015-06-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00051",
+      "join_date": "2023-03-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00052",
+      "join_date": "2020-02-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00053",
+      "join_date": "2021-01-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00054",
+      "join_date": "2016-05-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00055",
+      "join_date": "2019-03-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00056",
+      "join_date": "2015-11-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00057",
+      "join_date": "2021-03-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00058",
+      "join_date": "2018-04-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00059",
+      "join_date": "2022-01-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00060",
+      "join_date": "2021-12-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00061",
+      "join_date": "2019-01-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00062",
+      "join_date": "2021-06-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00063",
+      "join_date": "2017-02-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00064",
+      "join_date": "2022-11-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00065",
+      "join_date": "2015-10-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00066",
+      "join_date": "2015-07-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00067",
+      "join_date": "2022-06-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00068",
+      "join_date": "2017-07-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00069",
+      "join_date": "2018-03-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00070",
+      "join_date": "2015-11-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00071",
+      "join_date": "2017-08-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00072",
+      "join_date": "2016-02-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00073",
+      "join_date": "2019-04-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00074",
+      "join_date": "2018-02-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00075",
+      "join_date": "2020-02-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00076",
+      "join_date": "2022-02-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00077",
+      "join_date": "2019-02-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00078",
+      "join_date": "2016-10-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00079",
+      "join_date": "2019-02-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00080",
+      "join_date": "2018-12-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00081",
+      "join_date": "2017-05-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00082",
+      "join_date": "2022-07-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00083",
+      "join_date": "2017-12-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00084",
+      "join_date": "2022-11-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00085",
+      "join_date": "2022-08-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00086",
+      "join_date": "2022-04-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00087",
+      "join_date": "2015-10-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00088",
+      "join_date": "2021-10-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00089",
+      "join_date": "2022-02-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00090",
+      "join_date": "2016-12-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00091",
+      "join_date": "2020-12-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00092",
+      "join_date": "2023-03-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00093",
+      "join_date": "2017-09-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00094",
+      "join_date": "2016-10-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00095",
+      "join_date": "2020-03-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00096",
+      "join_date": "2019-04-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00097",
+      "join_date": "2018-01-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00098",
+      "join_date": "2022-03-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00099",
+      "join_date": "2022-09-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00100",
+      "join_date": "2021-03-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00101",
+      "join_date": "2017-06-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00102",
+      "join_date": "2022-09-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00103",
+      "join_date": "2018-08-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00104",
+      "join_date": "2015-08-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00105",
+      "join_date": "2017-07-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00106",
+      "join_date": "2015-05-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00107",
+      "join_date": "2018-07-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00108",
+      "join_date": "2019-07-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00109",
+      "join_date": "2018-01-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00110",
+      "join_date": "2015-09-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00111",
+      "join_date": "2017-05-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00112",
+      "join_date": "2021-05-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00113",
+      "join_date": "2023-01-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00114",
+      "join_date": "2018-07-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00115",
+      "join_date": "2017-05-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00116",
+      "join_date": "2022-05-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00117",
+      "join_date": "2020-08-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00118",
+      "join_date": "2019-06-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00119",
+      "join_date": "2022-03-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00120",
+      "join_date": "2020-02-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00121",
+      "join_date": "2016-08-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00122",
+      "join_date": "2017-12-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00123",
+      "join_date": "2016-07-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00124",
+      "join_date": "2017-10-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00125",
+      "join_date": "2021-04-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00126",
+      "join_date": "2021-01-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00127",
+      "join_date": "2017-12-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00128",
+      "join_date": "2021-07-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00129",
+      "join_date": "2019-10-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00130",
+      "join_date": "2021-07-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00131",
+      "join_date": "2019-06-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00132",
+      "join_date": "2019-01-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00133",
+      "join_date": "2017-06-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00134",
+      "join_date": "2016-07-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00135",
+      "join_date": "2020-09-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00136",
+      "join_date": "2020-07-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00137",
+      "join_date": "2016-01-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00138",
+      "join_date": "2015-07-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00139",
+      "join_date": "2016-03-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00140",
+      "join_date": "2016-09-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00141",
+      "join_date": "2022-01-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00142",
+      "join_date": "2016-10-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00143",
+      "join_date": "2022-08-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00144",
+      "join_date": "2019-09-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00145",
+      "join_date": "2021-09-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00146",
+      "join_date": "2015-09-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00147",
+      "join_date": "2019-04-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00148",
+      "join_date": "2019-04-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00149",
+      "join_date": "2021-09-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00150",
+      "join_date": "2020-04-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00151",
+      "join_date": "2020-12-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00152",
+      "join_date": "2017-10-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00153",
+      "join_date": "2021-03-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00154",
+      "join_date": "2015-02-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00155",
+      "join_date": "2022-08-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00156",
+      "join_date": "2023-01-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00157",
+      "join_date": "2016-04-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00158",
+      "join_date": "2022-08-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00159",
+      "join_date": "2021-01-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00160",
+      "join_date": "2017-12-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00161",
+      "join_date": "2022-03-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00162",
+      "join_date": "2018-10-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00163",
+      "join_date": "2016-04-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00164",
+      "join_date": "2018-04-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00165",
+      "join_date": "2019-11-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00166",
+      "join_date": "2016-10-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00167",
+      "join_date": "2020-02-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00168",
+      "join_date": "2015-01-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00169",
+      "join_date": "2023-02-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00170",
+      "join_date": "2023-01-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00171",
+      "join_date": "2017-12-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00172",
+      "join_date": "2020-08-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00173",
+      "join_date": "2017-01-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00174",
+      "join_date": "2020-09-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00175",
+      "join_date": "2016-03-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00176",
+      "join_date": "2022-01-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00177",
+      "join_date": "2018-05-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00178",
+      "join_date": "2022-03-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00179",
+      "join_date": "2020-09-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00180",
+      "join_date": "2021-10-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00181",
+      "join_date": "2017-03-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00182",
+      "join_date": "2016-09-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00183",
+      "join_date": "2019-03-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00184",
+      "join_date": "2016-10-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00185",
+      "join_date": "2021-01-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00186",
+      "join_date": "2020-12-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00187",
+      "join_date": "2015-01-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00188",
+      "join_date": "2021-09-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00189",
+      "join_date": "2018-08-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00190",
+      "join_date": "2020-06-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00191",
+      "join_date": "2015-03-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00192",
+      "join_date": "2016-04-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00193",
+      "join_date": "2019-01-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00194",
+      "join_date": "2018-06-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00195",
+      "join_date": "2017-09-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00196",
+      "join_date": "2015-08-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00197",
+      "join_date": "2017-09-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00198",
+      "join_date": "2021-05-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00199",
+      "join_date": "2015-11-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00200",
+      "join_date": "2015-12-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00201",
+      "join_date": "2023-03-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00202",
+      "join_date": "2020-06-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00203",
+      "join_date": "2015-10-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00204",
+      "join_date": "2020-12-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00205",
+      "join_date": "2016-05-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00206",
+      "join_date": "2016-06-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00207",
+      "join_date": "2022-05-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00208",
+      "join_date": "2020-04-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00209",
+      "join_date": "2021-03-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00210",
+      "join_date": "2016-11-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00211",
+      "join_date": "2017-12-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00212",
+      "join_date": "2020-12-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00213",
+      "join_date": "2021-10-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00214",
+      "join_date": "2019-09-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00215",
+      "join_date": "2017-05-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00216",
+      "join_date": "2021-01-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00217",
+      "join_date": "2023-03-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00218",
+      "join_date": "2022-09-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00219",
+      "join_date": "2017-04-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00220",
+      "join_date": "2022-12-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00221",
+      "join_date": "2018-06-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00222",
+      "join_date": "2019-06-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00223",
+      "join_date": "2022-07-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00224",
+      "join_date": "2022-04-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00225",
+      "join_date": "2019-03-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00226",
+      "join_date": "2019-11-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00227",
+      "join_date": "2020-10-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00228",
+      "join_date": "2020-01-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00229",
+      "join_date": "2016-05-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00230",
+      "join_date": "2017-10-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00231",
+      "join_date": "2017-07-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00232",
+      "join_date": "2015-09-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00233",
+      "join_date": "2018-10-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00234",
+      "join_date": "2015-03-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00235",
+      "join_date": "2021-08-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00236",
+      "join_date": "2021-03-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00237",
+      "join_date": "2017-07-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00238",
+      "join_date": "2021-08-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00239",
+      "join_date": "2017-06-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00240",
+      "join_date": "2015-01-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00241",
+      "join_date": "2015-10-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00242",
+      "join_date": "2022-12-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00243",
+      "join_date": "2022-01-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00244",
+      "join_date": "2015-08-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00245",
+      "join_date": "2017-07-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00246",
+      "join_date": "2015-10-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00247",
+      "join_date": "2015-05-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00248",
+      "join_date": "2018-09-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00249",
+      "join_date": "2015-10-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00250",
+      "join_date": "2020-10-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00251",
+      "join_date": "2017-09-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00252",
+      "join_date": "2018-02-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00253",
+      "join_date": "2022-07-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00254",
+      "join_date": "2020-06-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00255",
+      "join_date": "2017-05-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00256",
+      "join_date": "2021-01-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00257",
+      "join_date": "2016-06-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00258",
+      "join_date": "2023-02-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00259",
+      "join_date": "2021-05-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00260",
+      "join_date": "2021-06-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00261",
+      "join_date": "2020-04-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00262",
+      "join_date": "2017-09-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00263",
+      "join_date": "2020-04-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00264",
+      "join_date": "2019-07-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00265",
+      "join_date": "2017-02-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00266",
+      "join_date": "2016-01-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00267",
+      "join_date": "2016-02-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00268",
+      "join_date": "2022-05-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00269",
+      "join_date": "2019-11-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00270",
+      "join_date": "2018-12-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00271",
+      "join_date": "2019-10-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00272",
+      "join_date": "2019-08-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00273",
+      "join_date": "2020-03-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00274",
+      "join_date": "2023-03-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00275",
+      "join_date": "2015-08-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00276",
+      "join_date": "2022-07-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00277",
+      "join_date": "2022-04-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00278",
+      "join_date": "2022-03-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00279",
+      "join_date": "2016-02-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00280",
+      "join_date": "2015-09-06",
+      "default_flag": 1
+    },
+    {
+      "customer_id": "CUST00281",
+      "join_date": "2019-07-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00282",
+      "join_date": "2023-03-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00283",
+      "join_date": "2018-10-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00284",
+      "join_date": "2016-03-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00285",
+      "join_date": "2017-10-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00286",
+      "join_date": "2017-02-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00287",
+      "join_date": "2017-02-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00288",
+      "join_date": "2021-01-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00289",
+      "join_date": "2020-01-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00290",
+      "join_date": "2016-07-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00291",
+      "join_date": "2019-09-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00292",
+      "join_date": "2017-01-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00293",
+      "join_date": "2018-02-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00294",
+      "join_date": "2020-03-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00295",
+      "join_date": "2017-10-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00296",
+      "join_date": "2015-11-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00297",
+      "join_date": "2019-12-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00298",
+      "join_date": "2021-03-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00299",
+      "join_date": "2016-02-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00300",
+      "join_date": "2015-07-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00301",
+      "join_date": "2022-04-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00302",
+      "join_date": "2021-01-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00303",
+      "join_date": "2015-03-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00304",
+      "join_date": "2016-01-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00305",
+      "join_date": "2017-08-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00306",
+      "join_date": "2016-11-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00307",
+      "join_date": "2019-07-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00308",
+      "join_date": "2020-06-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00309",
+      "join_date": "2020-05-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00310",
+      "join_date": "2017-05-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00311",
+      "join_date": "2019-07-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00312",
+      "join_date": "2015-08-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00313",
+      "join_date": "2016-11-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00314",
+      "join_date": "2019-04-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00315",
+      "join_date": "2015-01-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00316",
+      "join_date": "2019-05-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00317",
+      "join_date": "2017-12-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00318",
+      "join_date": "2020-02-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00319",
+      "join_date": "2018-03-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00320",
+      "join_date": "2019-09-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00321",
+      "join_date": "2022-10-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00322",
+      "join_date": "2023-03-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00323",
+      "join_date": "2021-03-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00324",
+      "join_date": "2022-06-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00325",
+      "join_date": "2023-01-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00326",
+      "join_date": "2020-06-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00327",
+      "join_date": "2016-09-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00328",
+      "join_date": "2017-02-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00329",
+      "join_date": "2018-04-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00330",
+      "join_date": "2017-06-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00331",
+      "join_date": "2015-08-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00332",
+      "join_date": "2021-06-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00333",
+      "join_date": "2021-01-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00334",
+      "join_date": "2015-09-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00335",
+      "join_date": "2018-07-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00336",
+      "join_date": "2015-08-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00337",
+      "join_date": "2015-07-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00338",
+      "join_date": "2021-07-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00339",
+      "join_date": "2020-05-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00340",
+      "join_date": "2020-08-21",
+      "default_flag": 1
+    },
+    {
+      "customer_id": "CUST00341",
+      "join_date": "2020-12-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00342",
+      "join_date": "2016-10-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00343",
+      "join_date": "2015-08-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00344",
+      "join_date": "2020-09-11",
+      "default_flag": 1
+    },
+    {
+      "customer_id": "CUST00345",
+      "join_date": "2015-11-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00346",
+      "join_date": "2017-01-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00347",
+      "join_date": "2015-10-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00348",
+      "join_date": "2021-09-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00349",
+      "join_date": "2015-10-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00350",
+      "join_date": "2022-07-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00351",
+      "join_date": "2017-08-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00352",
+      "join_date": "2019-07-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00353",
+      "join_date": "2016-05-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00354",
+      "join_date": "2021-05-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00355",
+      "join_date": "2017-10-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00356",
+      "join_date": "2021-06-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00357",
+      "join_date": "2021-09-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00358",
+      "join_date": "2015-06-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00359",
+      "join_date": "2021-12-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00360",
+      "join_date": "2015-12-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00361",
+      "join_date": "2019-09-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00362",
+      "join_date": "2022-05-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00363",
+      "join_date": "2021-07-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00364",
+      "join_date": "2021-05-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00365",
+      "join_date": "2020-11-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00366",
+      "join_date": "2018-07-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00367",
+      "join_date": "2017-12-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00368",
+      "join_date": "2017-04-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00369",
+      "join_date": "2022-07-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00370",
+      "join_date": "2023-01-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00371",
+      "join_date": "2018-07-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00372",
+      "join_date": "2017-09-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00373",
+      "join_date": "2017-12-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00374",
+      "join_date": "2019-06-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00375",
+      "join_date": "2016-06-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00376",
+      "join_date": "2022-07-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00377",
+      "join_date": "2022-03-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00378",
+      "join_date": "2018-05-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00379",
+      "join_date": "2020-02-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00380",
+      "join_date": "2018-07-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00381",
+      "join_date": "2015-10-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00382",
+      "join_date": "2015-02-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00383",
+      "join_date": "2020-02-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00384",
+      "join_date": "2021-12-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00385",
+      "join_date": "2021-04-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00386",
+      "join_date": "2016-02-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00387",
+      "join_date": "2015-10-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00388",
+      "join_date": "2021-01-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00389",
+      "join_date": "2017-05-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00390",
+      "join_date": "2020-09-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00391",
+      "join_date": "2017-12-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00392",
+      "join_date": "2016-06-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00393",
+      "join_date": "2018-11-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00394",
+      "join_date": "2015-10-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00395",
+      "join_date": "2017-09-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00396",
+      "join_date": "2019-02-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00397",
+      "join_date": "2018-03-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00398",
+      "join_date": "2016-10-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00399",
+      "join_date": "2019-11-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00400",
+      "join_date": "2021-02-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00401",
+      "join_date": "2022-11-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00402",
+      "join_date": "2018-05-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00403",
+      "join_date": "2021-11-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00404",
+      "join_date": "2022-05-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00405",
+      "join_date": "2020-12-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00406",
+      "join_date": "2015-02-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00407",
+      "join_date": "2022-06-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00408",
+      "join_date": "2021-03-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00409",
+      "join_date": "2018-05-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00410",
+      "join_date": "2022-06-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00411",
+      "join_date": "2016-02-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00412",
+      "join_date": "2016-07-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00413",
+      "join_date": "2017-12-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00414",
+      "join_date": "2016-04-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00415",
+      "join_date": "2016-03-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00416",
+      "join_date": "2021-03-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00417",
+      "join_date": "2016-09-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00418",
+      "join_date": "2018-01-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00419",
+      "join_date": "2018-02-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00420",
+      "join_date": "2021-10-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00421",
+      "join_date": "2017-05-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00422",
+      "join_date": "2023-01-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00423",
+      "join_date": "2018-11-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00424",
+      "join_date": "2017-04-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00425",
+      "join_date": "2022-09-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00426",
+      "join_date": "2022-02-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00427",
+      "join_date": "2017-12-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00428",
+      "join_date": "2020-09-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00429",
+      "join_date": "2020-06-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00430",
+      "join_date": "2017-10-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00431",
+      "join_date": "2015-07-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00432",
+      "join_date": "2016-01-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00433",
+      "join_date": "2022-02-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00434",
+      "join_date": "2019-10-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00435",
+      "join_date": "2018-02-07",
+      "default_flag": 1
+    },
+    {
+      "customer_id": "CUST00436",
+      "join_date": "2015-06-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00437",
+      "join_date": "2015-01-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00438",
+      "join_date": "2018-09-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00439",
+      "join_date": "2016-06-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00440",
+      "join_date": "2022-02-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00441",
+      "join_date": "2017-12-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00442",
+      "join_date": "2016-10-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00443",
+      "join_date": "2019-12-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00444",
+      "join_date": "2021-03-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00445",
+      "join_date": "2022-11-30",
+      "default_flag": 1
+    },
+    {
+      "customer_id": "CUST00446",
+      "join_date": "2019-10-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00447",
+      "join_date": "2021-04-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00448",
+      "join_date": "2015-02-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00449",
+      "join_date": "2016-04-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00450",
+      "join_date": "2015-11-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00451",
+      "join_date": "2022-10-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00452",
+      "join_date": "2016-09-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00453",
+      "join_date": "2021-02-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00454",
+      "join_date": "2015-05-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00455",
+      "join_date": "2019-02-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00456",
+      "join_date": "2021-07-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00457",
+      "join_date": "2021-03-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00458",
+      "join_date": "2016-08-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00459",
+      "join_date": "2019-10-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00460",
+      "join_date": "2016-06-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00461",
+      "join_date": "2015-06-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00462",
+      "join_date": "2018-06-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00463",
+      "join_date": "2019-02-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00464",
+      "join_date": "2015-06-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00465",
+      "join_date": "2019-01-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00466",
+      "join_date": "2017-05-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00467",
+      "join_date": "2022-08-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00468",
+      "join_date": "2017-10-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00469",
+      "join_date": "2022-06-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00470",
+      "join_date": "2016-02-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00471",
+      "join_date": "2018-12-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00472",
+      "join_date": "2021-04-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00473",
+      "join_date": "2019-07-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00474",
+      "join_date": "2021-12-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00475",
+      "join_date": "2016-09-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00476",
+      "join_date": "2017-08-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00477",
+      "join_date": "2016-10-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00478",
+      "join_date": "2016-12-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00479",
+      "join_date": "2019-08-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00480",
+      "join_date": "2015-04-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00481",
+      "join_date": "2017-01-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00482",
+      "join_date": "2018-09-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00483",
+      "join_date": "2019-08-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00484",
+      "join_date": "2022-07-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00485",
+      "join_date": "2017-10-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00486",
+      "join_date": "2017-12-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00487",
+      "join_date": "2016-10-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00488",
+      "join_date": "2022-11-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00489",
+      "join_date": "2016-03-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00490",
+      "join_date": "2019-04-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00491",
+      "join_date": "2015-06-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00492",
+      "join_date": "2020-04-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00493",
+      "join_date": "2017-06-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00494",
+      "join_date": "2017-03-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00495",
+      "join_date": "2020-02-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00496",
+      "join_date": "2018-12-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00497",
+      "join_date": "2018-06-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00498",
+      "join_date": "2017-07-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00499",
+      "join_date": "2017-07-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00500",
+      "join_date": "2015-04-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00501",
+      "join_date": "2022-05-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00502",
+      "join_date": "2017-03-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00503",
+      "join_date": "2019-06-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00504",
+      "join_date": "2018-09-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00505",
+      "join_date": "2018-02-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00506",
+      "join_date": "2015-10-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00507",
+      "join_date": "2018-02-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00508",
+      "join_date": "2018-12-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00509",
+      "join_date": "2022-03-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00510",
+      "join_date": "2020-09-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00511",
+      "join_date": "2019-06-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00512",
+      "join_date": "2022-08-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00513",
+      "join_date": "2021-01-05",
+      "default_flag": 1
+    },
+    {
+      "customer_id": "CUST00514",
+      "join_date": "2018-09-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00515",
+      "join_date": "2015-04-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00516",
+      "join_date": "2016-04-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00517",
+      "join_date": "2017-12-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00518",
+      "join_date": "2017-01-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00519",
+      "join_date": "2021-07-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00520",
+      "join_date": "2017-12-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00521",
+      "join_date": "2015-06-06",
+      "default_flag": 1
+    },
+    {
+      "customer_id": "CUST00522",
+      "join_date": "2016-03-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00523",
+      "join_date": "2021-09-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00524",
+      "join_date": "2019-11-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00525",
+      "join_date": "2018-11-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00526",
+      "join_date": "2023-03-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00527",
+      "join_date": "2018-07-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00528",
+      "join_date": "2019-11-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00529",
+      "join_date": "2021-10-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00530",
+      "join_date": "2020-09-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00531",
+      "join_date": "2016-04-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00532",
+      "join_date": "2019-04-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00533",
+      "join_date": "2021-06-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00534",
+      "join_date": "2017-02-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00535",
+      "join_date": "2017-11-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00536",
+      "join_date": "2015-07-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00537",
+      "join_date": "2022-12-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00538",
+      "join_date": "2019-11-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00539",
+      "join_date": "2015-01-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00540",
+      "join_date": "2020-10-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00541",
+      "join_date": "2021-01-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00542",
+      "join_date": "2022-09-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00543",
+      "join_date": "2023-01-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00544",
+      "join_date": "2022-07-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00545",
+      "join_date": "2017-03-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00546",
+      "join_date": "2019-01-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00547",
+      "join_date": "2019-11-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00548",
+      "join_date": "2015-10-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00549",
+      "join_date": "2022-06-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00550",
+      "join_date": "2018-09-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00551",
+      "join_date": "2021-12-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00552",
+      "join_date": "2018-07-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00553",
+      "join_date": "2022-06-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00554",
+      "join_date": "2016-05-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00555",
+      "join_date": "2023-01-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00556",
+      "join_date": "2018-05-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00557",
+      "join_date": "2020-09-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00558",
+      "join_date": "2018-06-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00559",
+      "join_date": "2022-06-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00560",
+      "join_date": "2019-07-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00561",
+      "join_date": "2018-08-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00562",
+      "join_date": "2019-07-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00563",
+      "join_date": "2022-10-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00564",
+      "join_date": "2018-04-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00565",
+      "join_date": "2021-03-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00566",
+      "join_date": "2016-06-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00567",
+      "join_date": "2017-02-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00568",
+      "join_date": "2019-09-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00569",
+      "join_date": "2022-06-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00570",
+      "join_date": "2019-04-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00571",
+      "join_date": "2022-08-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00572",
+      "join_date": "2016-12-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00573",
+      "join_date": "2021-11-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00574",
+      "join_date": "2021-05-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00575",
+      "join_date": "2018-05-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00576",
+      "join_date": "2019-07-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00577",
+      "join_date": "2021-02-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00578",
+      "join_date": "2015-01-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00579",
+      "join_date": "2018-05-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00580",
+      "join_date": "2018-03-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00581",
+      "join_date": "2017-05-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00582",
+      "join_date": "2019-10-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00583",
+      "join_date": "2021-07-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00584",
+      "join_date": "2021-10-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00585",
+      "join_date": "2022-05-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00586",
+      "join_date": "2018-08-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00587",
+      "join_date": "2020-03-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00588",
+      "join_date": "2019-12-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00589",
+      "join_date": "2019-12-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00590",
+      "join_date": "2022-07-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00591",
+      "join_date": "2017-05-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00592",
+      "join_date": "2020-09-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00593",
+      "join_date": "2020-04-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00594",
+      "join_date": "2016-11-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00595",
+      "join_date": "2022-05-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00596",
+      "join_date": "2015-12-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00597",
+      "join_date": "2018-03-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00598",
+      "join_date": "2020-10-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00599",
+      "join_date": "2022-06-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00600",
+      "join_date": "2022-02-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00601",
+      "join_date": "2021-12-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00602",
+      "join_date": "2018-10-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00603",
+      "join_date": "2016-01-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00604",
+      "join_date": "2017-08-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00605",
+      "join_date": "2022-07-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00606",
+      "join_date": "2018-06-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00607",
+      "join_date": "2017-07-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00608",
+      "join_date": "2017-03-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00609",
+      "join_date": "2016-08-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00610",
+      "join_date": "2015-04-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00611",
+      "join_date": "2015-07-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00612",
+      "join_date": "2017-09-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00613",
+      "join_date": "2020-04-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00614",
+      "join_date": "2021-11-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00615",
+      "join_date": "2015-10-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00616",
+      "join_date": "2020-02-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00617",
+      "join_date": "2019-08-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00618",
+      "join_date": "2022-01-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00619",
+      "join_date": "2021-06-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00620",
+      "join_date": "2017-03-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00621",
+      "join_date": "2023-01-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00622",
+      "join_date": "2022-10-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00623",
+      "join_date": "2019-04-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00624",
+      "join_date": "2020-07-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00625",
+      "join_date": "2019-06-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00626",
+      "join_date": "2017-09-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00627",
+      "join_date": "2016-08-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00628",
+      "join_date": "2022-05-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00629",
+      "join_date": "2022-09-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00630",
+      "join_date": "2015-01-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00631",
+      "join_date": "2016-03-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00632",
+      "join_date": "2019-10-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00633",
+      "join_date": "2017-06-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00634",
+      "join_date": "2016-12-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00635",
+      "join_date": "2022-10-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00636",
+      "join_date": "2020-10-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00637",
+      "join_date": "2020-03-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00638",
+      "join_date": "2015-07-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00639",
+      "join_date": "2021-04-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00640",
+      "join_date": "2017-10-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00641",
+      "join_date": "2016-05-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00642",
+      "join_date": "2020-02-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00643",
+      "join_date": "2016-06-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00644",
+      "join_date": "2020-03-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00645",
+      "join_date": "2022-06-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00646",
+      "join_date": "2020-12-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00647",
+      "join_date": "2021-04-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00648",
+      "join_date": "2021-09-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00649",
+      "join_date": "2018-07-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00650",
+      "join_date": "2019-12-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00651",
+      "join_date": "2021-11-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00652",
+      "join_date": "2023-01-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00653",
+      "join_date": "2020-08-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00654",
+      "join_date": "2019-10-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00655",
+      "join_date": "2021-02-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00656",
+      "join_date": "2020-01-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00657",
+      "join_date": "2016-10-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00658",
+      "join_date": "2020-04-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00659",
+      "join_date": "2020-01-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00660",
+      "join_date": "2017-11-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00661",
+      "join_date": "2017-10-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00662",
+      "join_date": "2022-02-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00663",
+      "join_date": "2018-02-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00664",
+      "join_date": "2020-11-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00665",
+      "join_date": "2020-06-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00666",
+      "join_date": "2022-01-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00667",
+      "join_date": "2017-09-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00668",
+      "join_date": "2018-01-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00669",
+      "join_date": "2019-12-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00670",
+      "join_date": "2015-11-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00671",
+      "join_date": "2023-01-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00672",
+      "join_date": "2018-03-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00673",
+      "join_date": "2017-08-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00674",
+      "join_date": "2018-01-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00675",
+      "join_date": "2018-10-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00676",
+      "join_date": "2018-08-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00677",
+      "join_date": "2021-01-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00678",
+      "join_date": "2015-11-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00679",
+      "join_date": "2016-07-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00680",
+      "join_date": "2016-09-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00681",
+      "join_date": "2017-08-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00682",
+      "join_date": "2019-04-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00683",
+      "join_date": "2022-10-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00684",
+      "join_date": "2016-09-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00685",
+      "join_date": "2022-12-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00686",
+      "join_date": "2017-05-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00687",
+      "join_date": "2015-09-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00688",
+      "join_date": "2019-08-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00689",
+      "join_date": "2019-07-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00690",
+      "join_date": "2018-09-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00691",
+      "join_date": "2021-01-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00692",
+      "join_date": "2020-03-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00693",
+      "join_date": "2019-08-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00694",
+      "join_date": "2015-09-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00695",
+      "join_date": "2017-04-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00696",
+      "join_date": "2019-09-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00697",
+      "join_date": "2019-05-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00698",
+      "join_date": "2021-07-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00699",
+      "join_date": "2022-10-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00700",
+      "join_date": "2015-03-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00701",
+      "join_date": "2021-06-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00702",
+      "join_date": "2019-04-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00703",
+      "join_date": "2020-05-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00704",
+      "join_date": "2015-01-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00705",
+      "join_date": "2018-12-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00706",
+      "join_date": "2018-05-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00707",
+      "join_date": "2019-05-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00708",
+      "join_date": "2019-09-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00709",
+      "join_date": "2021-01-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00710",
+      "join_date": "2021-02-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00711",
+      "join_date": "2021-10-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00712",
+      "join_date": "2017-06-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00713",
+      "join_date": "2020-06-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00714",
+      "join_date": "2017-06-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00715",
+      "join_date": "2018-01-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00716",
+      "join_date": "2019-11-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00717",
+      "join_date": "2020-06-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00718",
+      "join_date": "2015-04-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00719",
+      "join_date": "2019-05-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00720",
+      "join_date": "2018-10-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00721",
+      "join_date": "2022-07-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00722",
+      "join_date": "2022-08-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00723",
+      "join_date": "2019-07-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00724",
+      "join_date": "2023-02-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00725",
+      "join_date": "2016-11-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00726",
+      "join_date": "2020-03-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00727",
+      "join_date": "2016-06-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00728",
+      "join_date": "2021-12-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00729",
+      "join_date": "2020-12-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00730",
+      "join_date": "2015-04-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00731",
+      "join_date": "2019-06-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00732",
+      "join_date": "2021-08-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00733",
+      "join_date": "2021-04-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00734",
+      "join_date": "2022-06-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00735",
+      "join_date": "2015-04-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00736",
+      "join_date": "2015-12-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00737",
+      "join_date": "2022-03-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00738",
+      "join_date": "2019-10-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00739",
+      "join_date": "2016-07-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00740",
+      "join_date": "2020-03-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00741",
+      "join_date": "2017-01-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00742",
+      "join_date": "2015-07-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00743",
+      "join_date": "2017-12-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00744",
+      "join_date": "2019-04-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00745",
+      "join_date": "2018-09-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00746",
+      "join_date": "2017-05-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00747",
+      "join_date": "2020-02-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00748",
+      "join_date": "2018-08-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00749",
+      "join_date": "2018-10-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00750",
+      "join_date": "2019-04-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00751",
+      "join_date": "2018-02-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00752",
+      "join_date": "2019-09-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00753",
+      "join_date": "2017-10-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00754",
+      "join_date": "2015-12-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00755",
+      "join_date": "2020-04-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00756",
+      "join_date": "2015-03-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00757",
+      "join_date": "2021-01-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00758",
+      "join_date": "2015-08-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00759",
+      "join_date": "2018-12-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00760",
+      "join_date": "2017-07-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00761",
+      "join_date": "2022-04-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00762",
+      "join_date": "2015-10-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00763",
+      "join_date": "2022-04-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00764",
+      "join_date": "2015-06-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00765",
+      "join_date": "2015-05-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00766",
+      "join_date": "2017-10-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00767",
+      "join_date": "2017-03-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00768",
+      "join_date": "2015-03-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00769",
+      "join_date": "2021-12-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00770",
+      "join_date": "2016-09-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00771",
+      "join_date": "2017-09-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00772",
+      "join_date": "2016-06-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00773",
+      "join_date": "2020-04-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00774",
+      "join_date": "2022-07-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00775",
+      "join_date": "2016-04-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00776",
+      "join_date": "2021-04-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00777",
+      "join_date": "2017-06-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00778",
+      "join_date": "2020-03-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00779",
+      "join_date": "2022-11-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00780",
+      "join_date": "2017-11-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00781",
+      "join_date": "2019-02-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00782",
+      "join_date": "2016-11-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00783",
+      "join_date": "2021-10-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00784",
+      "join_date": "2021-10-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00785",
+      "join_date": "2023-01-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00786",
+      "join_date": "2016-04-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00787",
+      "join_date": "2016-11-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00788",
+      "join_date": "2018-06-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00789",
+      "join_date": "2016-03-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00790",
+      "join_date": "2021-06-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00791",
+      "join_date": "2015-04-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00792",
+      "join_date": "2018-07-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00793",
+      "join_date": "2021-06-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00794",
+      "join_date": "2022-08-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00795",
+      "join_date": "2019-03-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00796",
+      "join_date": "2019-06-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00797",
+      "join_date": "2023-01-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00798",
+      "join_date": "2017-03-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00799",
+      "join_date": "2015-11-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00800",
+      "join_date": "2021-08-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00801",
+      "join_date": "2022-09-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00802",
+      "join_date": "2022-01-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00803",
+      "join_date": "2017-09-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00804",
+      "join_date": "2016-02-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00805",
+      "join_date": "2022-10-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00806",
+      "join_date": "2018-05-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00807",
+      "join_date": "2022-09-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00808",
+      "join_date": "2021-09-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00809",
+      "join_date": "2016-05-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00810",
+      "join_date": "2021-05-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00811",
+      "join_date": "2015-06-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00812",
+      "join_date": "2018-11-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00813",
+      "join_date": "2020-12-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00814",
+      "join_date": "2019-10-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00815",
+      "join_date": "2022-06-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00816",
+      "join_date": "2019-02-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00817",
+      "join_date": "2015-10-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00818",
+      "join_date": "2020-09-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00819",
+      "join_date": "2022-04-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00820",
+      "join_date": "2018-10-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00821",
+      "join_date": "2015-02-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00822",
+      "join_date": "2019-09-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00823",
+      "join_date": "2020-06-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00824",
+      "join_date": "2016-03-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00825",
+      "join_date": "2019-11-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00826",
+      "join_date": "2019-01-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00827",
+      "join_date": "2022-02-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00828",
+      "join_date": "2020-02-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00829",
+      "join_date": "2022-12-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00830",
+      "join_date": "2016-09-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00831",
+      "join_date": "2019-11-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00832",
+      "join_date": "2016-12-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00833",
+      "join_date": "2020-11-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00834",
+      "join_date": "2022-04-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00835",
+      "join_date": "2018-01-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00836",
+      "join_date": "2021-11-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00837",
+      "join_date": "2021-01-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00838",
+      "join_date": "2020-06-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00839",
+      "join_date": "2020-03-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00840",
+      "join_date": "2019-11-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00841",
+      "join_date": "2023-03-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00842",
+      "join_date": "2021-08-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00843",
+      "join_date": "2018-01-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00844",
+      "join_date": "2018-08-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00845",
+      "join_date": "2017-10-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00846",
+      "join_date": "2015-12-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00847",
+      "join_date": "2018-02-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00848",
+      "join_date": "2020-01-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00849",
+      "join_date": "2017-09-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00850",
+      "join_date": "2020-03-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00851",
+      "join_date": "2021-05-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00852",
+      "join_date": "2021-11-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00853",
+      "join_date": "2022-06-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00854",
+      "join_date": "2019-04-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00855",
+      "join_date": "2018-10-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00856",
+      "join_date": "2015-04-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00857",
+      "join_date": "2020-07-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00858",
+      "join_date": "2018-08-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00859",
+      "join_date": "2017-01-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00860",
+      "join_date": "2020-06-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00861",
+      "join_date": "2017-05-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00862",
+      "join_date": "2018-12-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00863",
+      "join_date": "2017-11-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00864",
+      "join_date": "2018-10-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00865",
+      "join_date": "2018-02-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00866",
+      "join_date": "2021-09-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00867",
+      "join_date": "2022-11-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00868",
+      "join_date": "2018-02-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00869",
+      "join_date": "2021-03-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00870",
+      "join_date": "2015-02-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00871",
+      "join_date": "2020-10-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00872",
+      "join_date": "2017-02-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00873",
+      "join_date": "2015-12-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00874",
+      "join_date": "2017-09-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00875",
+      "join_date": "2023-01-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00876",
+      "join_date": "2019-07-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00877",
+      "join_date": "2020-06-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00878",
+      "join_date": "2021-03-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00879",
+      "join_date": "2017-09-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00880",
+      "join_date": "2022-09-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00881",
+      "join_date": "2020-05-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00882",
+      "join_date": "2022-03-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00883",
+      "join_date": "2022-12-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00884",
+      "join_date": "2020-07-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00885",
+      "join_date": "2020-01-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00886",
+      "join_date": "2015-03-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00887",
+      "join_date": "2016-01-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00888",
+      "join_date": "2018-04-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00889",
+      "join_date": "2017-06-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00890",
+      "join_date": "2019-07-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00891",
+      "join_date": "2022-10-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00892",
+      "join_date": "2017-09-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00893",
+      "join_date": "2018-06-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00894",
+      "join_date": "2022-06-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00895",
+      "join_date": "2021-07-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00896",
+      "join_date": "2019-02-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00897",
+      "join_date": "2020-04-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00898",
+      "join_date": "2021-03-17",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00899",
+      "join_date": "2020-12-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00900",
+      "join_date": "2018-11-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00901",
+      "join_date": "2019-10-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00902",
+      "join_date": "2021-03-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00903",
+      "join_date": "2018-09-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00904",
+      "join_date": "2018-12-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00905",
+      "join_date": "2022-11-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00906",
+      "join_date": "2020-02-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00907",
+      "join_date": "2018-01-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00908",
+      "join_date": "2018-06-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00909",
+      "join_date": "2017-10-26",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00910",
+      "join_date": "2017-08-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00911",
+      "join_date": "2016-05-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00912",
+      "join_date": "2023-02-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00913",
+      "join_date": "2017-02-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00914",
+      "join_date": "2018-07-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00915",
+      "join_date": "2016-05-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00916",
+      "join_date": "2021-01-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00917",
+      "join_date": "2022-09-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00918",
+      "join_date": "2017-01-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00919",
+      "join_date": "2017-02-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00920",
+      "join_date": "2017-06-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00921",
+      "join_date": "2020-06-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00922",
+      "join_date": "2018-02-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00923",
+      "join_date": "2023-02-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00924",
+      "join_date": "2021-08-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00925",
+      "join_date": "2020-11-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00926",
+      "join_date": "2021-09-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00927",
+      "join_date": "2018-03-05",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00928",
+      "join_date": "2016-02-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00929",
+      "join_date": "2017-03-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00930",
+      "join_date": "2018-04-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00931",
+      "join_date": "2017-07-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00932",
+      "join_date": "2019-01-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00933",
+      "join_date": "2017-01-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00934",
+      "join_date": "2018-05-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00935",
+      "join_date": "2015-02-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00936",
+      "join_date": "2022-12-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00937",
+      "join_date": "2020-12-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00938",
+      "join_date": "2016-06-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00939",
+      "join_date": "2018-01-28",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00940",
+      "join_date": "2015-07-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00941",
+      "join_date": "2015-08-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00942",
+      "join_date": "2021-03-16",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00943",
+      "join_date": "2018-04-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00944",
+      "join_date": "2022-10-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00945",
+      "join_date": "2016-06-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00946",
+      "join_date": "2022-02-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00947",
+      "join_date": "2020-07-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00948",
+      "join_date": "2016-02-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00949",
+      "join_date": "2015-02-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00950",
+      "join_date": "2021-06-09",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00951",
+      "join_date": "2018-03-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00952",
+      "join_date": "2020-04-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00953",
+      "join_date": "2020-05-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00954",
+      "join_date": "2019-12-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00955",
+      "join_date": "2018-10-27",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00956",
+      "join_date": "2017-01-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00957",
+      "join_date": "2015-07-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00958",
+      "join_date": "2017-10-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00959",
+      "join_date": "2020-05-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00960",
+      "join_date": "2016-04-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00961",
+      "join_date": "2015-09-25",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00962",
+      "join_date": "2019-06-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00963",
+      "join_date": "2020-07-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00964",
+      "join_date": "2015-10-31",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00965",
+      "join_date": "2021-06-21",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00966",
+      "join_date": "2022-01-22",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00967",
+      "join_date": "2022-09-12",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00968",
+      "join_date": "2015-08-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00969",
+      "join_date": "2016-09-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00970",
+      "join_date": "2016-09-03",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00971",
+      "join_date": "2021-04-24",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00972",
+      "join_date": "2018-05-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00973",
+      "join_date": "2015-12-15",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00974",
+      "join_date": "2017-10-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00975",
+      "join_date": "2016-04-30",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00976",
+      "join_date": "2021-04-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00977",
+      "join_date": "2019-09-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00978",
+      "join_date": "2021-10-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00979",
+      "join_date": "2021-09-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00980",
+      "join_date": "2021-12-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00981",
+      "join_date": "2017-07-13",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00982",
+      "join_date": "2020-11-10",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00983",
+      "join_date": "2019-04-08",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00984",
+      "join_date": "2020-01-20",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00985",
+      "join_date": "2019-12-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00986",
+      "join_date": "2018-05-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00987",
+      "join_date": "2021-08-07",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00988",
+      "join_date": "2019-10-23",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00989",
+      "join_date": "2018-06-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00990",
+      "join_date": "2021-05-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00991",
+      "join_date": "2021-12-18",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00992",
+      "join_date": "2015-09-04",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00993",
+      "join_date": "2021-11-02",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00994",
+      "join_date": "2016-02-11",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00995",
+      "join_date": "2017-05-01",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00996",
+      "join_date": "2022-01-06",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00997",
+      "join_date": "2017-05-14",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00998",
+      "join_date": "2017-12-19",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST00999",
+      "join_date": "2022-05-29",
+      "default_flag": 0
+    },
+    {
+      "customer_id": "CUST01000",
+      "join_date": "2015-11-29",
+      "default_flag": 0
+    }
+  ]
+}
