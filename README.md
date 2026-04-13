@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Preprocessing+%26+Feature+Engineering;3+Real-World+Data+Science+Projects;Clean+Data+%E2%86%92+Smarter+Models" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=800&color=2F81F7&center=true&vCenter=true&width=800&lines=Data+Preprocessing+%26+Feature+Engineering;3+Projects+%2B+1+Practical+Exam;Clean+Data+%E2%86%92+Smarter+Models" alt="Typing SVG" />
 
 <br/>
 
@@ -15,9 +15,9 @@
 
 <br/>
 
-> A collection of **3 end-to-end data science projects** covering the full data preparation lifecycle —
+> A collection of **3 end-to-end data science projects + 1 Practical Exam** covering the full data preparation lifecycle —
 > from raw, messy, multi-source data to clean, engineered, model-ready datasets.
-> Each project applies real-world techniques across different domains: **finance**, **healthcare**, and **customer analytics**.
+> Projects span real-world domains: **finance**, **healthcare**, **customer analytics**, and **e-commerce**.
 
 <br/>
 
@@ -36,6 +36,7 @@
 | 🏦 | [Final PR — Loan Default Prediction Pipeline](#-final-pr--loan-default-prediction-pipeline) |
 | 📊 | [PR 1 — Customer Churn Prediction](#-pr-1--customer-churn-prediction) |
 | 🏥 | [PR 2 — Patient Health Risk Prediction](#-pr-2--patient-health-risk-prediction) |
+| 🛒 | [Practical Exam — Customer Purchase Prediction](#-practical-exam--customer-purchase-prediction) |
 | 🧠 | [Techniques Across All Projects](#-techniques-across-all-projects) |
 | 🚀 | [Getting Started](#-getting-started) |
 | 📦 | [Dependencies](#-dependencies) |
@@ -51,7 +52,8 @@ This repository contains progressive data science projects, each building on cor
 │
 ├── 📁 final pr/          ← Multi-source loan default pipeline  (most advanced)
 ├── 📁 pr 1/              ← Customer churn analysis & ML
-└── 📁 pr 2/              ← Patient health risk preprocessing
+├── 📁 pr 2/              ← Patient health risk preprocessing
+└── 📁 practical exam/    ← 🎓 E-commerce purchase prediction (exam project)
 ```
 
 ### At a Glance
@@ -61,6 +63,7 @@ This repository contains progressive data science projects, each building on cor
 | 🏦 | **Final PR** | Finance / Credit Risk | CSV + JSON + SQL + API | 1,000 | 842 | 32 | Binary Classification |
 | 📊 | **PR 1** | Customer Analytics | CSV + JSON + SQLite | 1,000+ | — | 8 | Binary Classification |
 | 🏥 | **PR 2** | Healthcare | CSV | 1,000 | 904 | 9 | Binary Classification |
+| 🛒 | **Practical Exam** | E-Commerce | CSV + JSON + SQL + API | 1,000 | 1,000 | 39 | Binary Classification |
 
 ---
 
@@ -356,35 +359,170 @@ Side-by-side box plots comparing `glucose` distributions across all 4 outlier me
 
 ---
 
+## 🛒 Practical Exam — Customer Purchase Prediction
+
+> **The exam project.** A full end-to-end feature engineering pipeline applied to an e-commerce dataset — ingesting from 4 source types, engineering 39 features, and producing a zero-null, ML-ready dataset to predict customer purchase behavior.
+
+### 📁 Files
+
+```
+practical exam/
+├── 📓 feature_pipeline.ipynb            ← Full pipeline notebook
+├── customers.csv                         ← Customer demographics (1,000 rows)
+├── transactions.json                     ← Transaction records (1,000 entries)
+├── products.sql                          ← Product catalog (SQLite, 20 products)
+├── processed_customer_data.csv           ← ✅ Output: 1,000 rows × 39 features
+└── Summary_Report.pdf                    ← Techniques, findings & method comparison
+```
+
+### 🎯 Objective
+
+Predict whether a customer will **make a purchase** (0 = no purchase, 1 = purchased) using engineered features derived from demographics, transaction history, and product catalog data.
+
+```
+CSV ──┐
+JSON──┤──► MERGE ──► CLEAN ──► IMPUTE ──► ENGINEER ──► ENCODE ──► SCALE ──► ✅ 1,000 × 39
+SQL ──┤   1,000     regex     KNN/MICE   time feats    OHE/LE    Robust
+API ──┘
+```
+
+### 🔌 Data Sources
+
+| Source | File | Key Information |
+|--------|------|----------------|
+| 👤 CSV | `customers.csv` | `customer_id`, `age`, `gender`, `city`, `income` |
+| 💳 JSON | `transactions.json` | `transaction_id`, `customer_id`, `product_id`, `amount`, `date`, `payment_mode`, `quantity` |
+| 🛍️ SQL | `products.sql` | `product_id`, `category`, `price`, `stock` (20 products across 6 categories) |
+| 🌐 API | External enrichment | Supplementary customer signals |
+
+> All datasets joined on shared keys: **`customer_id`** and **`product_id`**
+
+### ⚙️ Pipeline Stages
+
+<details>
+<summary><b>Stage 1 — Data Ingestion & Merging</b></summary>
+
+- Loaded all 4 sources and merged on `customer_id` and `product_id`
+- Mixed-type `customer_id` values resolved using **regex-based cleaning**
+- Invalid null representations standardized to `NaN`
+
+</details>
+
+<details>
+<summary><b>Stage 2 — Missing Value Imputation</b></summary>
+
+Missing values (~5%) in `age` and `income` — 5 strategies compared:
+
+| Method | Rows Lost | Notes |
+|--------|-----------|-------|
+| Simple Imputer | 0 | Fast; ignores feature relationships |
+| Random Sample | 0 | Preserves original distribution |
+| **KNN Imputer** ✅ | **0** | Captures inter-feature similarity |
+| **MICE** ✅ | **0** | Most accurate; computationally expensive |
+| Complete Case Analysis | ~50 | Data loss — not preferred |
+
+> 🏆 **KNN and MICE** selected — best relationship preservation, zero data loss.
+
+</details>
+
+<details>
+<summary><b>Stage 3 — Feature Engineering</b></summary>
+
+New features derived to boost predictive power:
+
+| Feature | Description |
+|---------|-------------|
+| `days_since_signup` | Days between signup and reference date |
+| `days_since_last_purchase` | Recency signal |
+| `purchase_month` | Month from transaction date |
+| `purchase_weekday` | Day-of-week from transaction date |
+| `total_purchases` | Aggregate purchase count per customer |
+| `purchase_per_day` | Purchase frequency normalized by time |
+| `avg_spend_per_purchase` | Average transaction value |
+| `recency_score` | Composite recency signal |
+| `income_quantile_bin` | Income binned into quantile buckets |
+| `frequent_buyer` | Binary flag for high-frequency customers |
+| `purchased` | 🎯 **Target variable** — derived from transaction records |
+
+</details>
+
+<details>
+<summary><b>Stage 4 — Encoding</b></summary>
+
+- Label encoding for binary/ordinal variables (`gender`, `payment_mode`)
+- One-hot encoding for nominals: `city` (16 cities), `category` (6 categories)
+- Product name label-encoded
+
+</details>
+
+<details>
+<summary><b>Stage 5 — Feature Scaling</b></summary>
+
+| Scaler | Applied To |
+|--------|------------|
+| 🏆 **RobustScaler** | `income`, `transaction_amount` (skewed, outliers present) |
+| **StandardScaler** | `age` (normally distributed) |
+
+</details>
+
+### 📊 EDA Techniques Applied
+
+- 📊 **Histograms** — Feature distribution analysis
+- 🔥 **Heatmaps** — Correlation matrix
+- 🔵 **Scatter Plots** — Pairwise relationship exploration
+- 🔷 **Pairplots** — Multi-dimensional pattern detection
+- 📐 **Grouped Statistical Analysis** — Segment-level aggregations
+
+### 📊 Result
+
+| Metric | Before | After |
+|--------|:------:|:-----:|
+| Rows | 1,000 | **1,000** |
+| Features | ~10 raw | **39 engineered** |
+| Missing Values | ❌ Present | **✅ Zero** |
+| ML Ready | ❌ | **✅** |
+
+### 💡 Key Findings
+
+- **KNN and MICE** imputation preserved relationships between `income`, `age`, and purchase behavior better than simpler methods
+- **RobustScaler** was essential for `income` — heavy right skew and outliers would distort StandardScaler
+- Engineered **recency and frequency features** (`days_since_last_purchase`, `frequent_buyer`) are likely to be the strongest predictors of purchase intent
+- City-level one-hot encoding captured regional purchasing pattern differences across 16 Indian cities
+
+---
+
 ## 🧠 Techniques Across All Projects
 
-| Technique | Final PR | PR 1 | PR 2 |
-|-----------|:--------:|:----:|:----:|
-| Multi-source data ingestion | ✅ (4 sources) | ✅ (3 sources) | ✅ (CSV) |
-| SimpleImputer | ✅ | ✅ | ✅ |
-| KNN Imputation | ✅ | ✅ | ✅ |
-| MICE / Iterative Imputation | ✅ | ✅ | ✅ |
-| Random Sample Imputation | ✅ | — | ✅ |
-| Missing Indicator | — | — | ✅ |
-| Z-Score Outlier Removal | ✅ | — | ✅ |
-| IQR Outlier Removal | ✅ | — | ✅ |
-| Percentile Capping | ✅ | — | ✅ |
-| Winsorization | ✅ | — | — |
-| Ordinal Encoding | ✅ | — | — |
-| Label Encoding | ✅ | — | ✅ |
-| One-Hot Encoding | ✅ | — | — |
-| Binning (Uniform/Quantile/KMeans) | ✅ | — | — |
-| Binarization | ✅ | — | — |
-| Feature Scaling (4 methods) | ✅ | — | — |
-| Log / Box-Cox / Yeo-Johnson | ✅ | — | — |
-| Domain Feature Construction | ✅ | — | — |
-| EDA (Univariate) | ✅ | ✅ | — |
-| EDA (Bivariate) | ✅ | ✅ | — |
-| EDA (Multivariate / Heatmap) | ✅ | ✅ | — |
-| Pairplot | — | ✅ | — |
-| ydata-profiling Report | ✅ | ✅ | — |
-| Logistic Regression | — | ✅ | — |
-| Visual Comparison (box plots) | — | — | ✅ |
+| Technique | Final PR | PR 1 | PR 2 | Practical Exam |
+|-----------|:--------:|:----:|:----:|:--------------:|
+| Multi-source data ingestion | ✅ (4 sources) | ✅ (3 sources) | ✅ (CSV) | ✅ (4 sources) |
+| SimpleImputer | ✅ | ✅ | ✅ | ✅ |
+| KNN Imputation | ✅ | ✅ | ✅ | ✅ |
+| MICE / Iterative Imputation | ✅ | ✅ | ✅ | ✅ |
+| Random Sample Imputation | ✅ | — | ✅ | ✅ |
+| Missing Indicator | — | — | ✅ | — |
+| Z-Score Outlier Removal | ✅ | — | ✅ | — |
+| IQR Outlier Removal | ✅ | — | ✅ | — |
+| Percentile Capping | ✅ | — | ✅ | — |
+| Winsorization | ✅ | — | — | — |
+| Ordinal Encoding | ✅ | — | — | — |
+| Label Encoding | ✅ | — | ✅ | ✅ |
+| One-Hot Encoding | ✅ | — | — | ✅ |
+| Binning (Uniform/Quantile/KMeans) | ✅ | — | — | ✅ |
+| Binarization | ✅ | — | — | — |
+| Feature Scaling (RobustScaler) | ✅ | — | — | ✅ |
+| Feature Scaling (StandardScaler) | ✅ | — | — | ✅ |
+| Log / Box-Cox / Yeo-Johnson | ✅ | — | — | — |
+| Domain Feature Construction | ✅ | — | — | ✅ |
+| Datetime Feature Engineering | ✅ | — | — | ✅ |
+| EDA (Univariate / Histograms) | ✅ | ✅ | — | ✅ |
+| EDA (Bivariate / Scatter) | ✅ | ✅ | — | ✅ |
+| EDA (Multivariate / Heatmap) | ✅ | ✅ | — | ✅ |
+| Pairplot | — | ✅ | — | ✅ |
+| Grouped Statistical Analysis | — | — | — | ✅ |
+| ydata-profiling Report | ✅ | ✅ | — | — |
+| Logistic Regression | — | ✅ | — | — |
+| Visual Comparison (box plots) | — | — | ✅ | — |
 
 ---
 
@@ -417,6 +555,10 @@ jupyter notebook advance_customer_analysis.ipynb
 # PR 2 — Patient health
 cd "pr 2"
 jupyter notebook patient_health.ipynb
+
+# Practical Exam — Customer purchase prediction
+cd "practical exam"
+jupyter notebook feature_pipeline.ipynb
 ```
 
 > ⚠️ Make sure all data files are in the **same directory** as the notebook before running.
@@ -470,6 +612,14 @@ jupyter >= 1.0
 │   ├── patient_health_dataset.csv
 │   ├── final_clean_patient_dataset.csv
 │   └── README.md
+│
+├── 📁 practical exam/
+│   ├── feature_pipeline.ipynb
+│   ├── customers.csv
+│   ├── transactions.json
+│   ├── products.sql
+│   ├── processed_customer_data.csv
+│   └── Summary_Report.pdf
 │
 └── 📄 README.md                          ← You are here
 ```
